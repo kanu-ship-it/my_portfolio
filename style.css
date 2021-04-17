@@ -1,0 +1,49 @@
+nav{
+text-align: center;
+background-color: whitesmoke;
+margin:auto;
+
+}
+h1{
+    text-decoration: underline;
+    font-size: 300%;
+    
+} 
+h2, h3, h4, h5, h6, h7{
+    color:rgb(22, 147, 189);
+    margin:auto;
+}
+h3{
+    color:rgb(22, 147, 189);
+    margin:auto;
+    
+}
+
+h4{
+    color:rgb(22, 147, 189);
+    margin:auto;
+}
+h5{
+    color:rgb(22, 147, 189);
+    font-size: 18px;
+    margin:auto;
+}
+h6{
+    color:rgb(22, 147, 189);
+    font-size: 18px;
+    margin :auto;
+}
+h7{
+    color:rgb(22, 147, 189);
+    font-size: 18px;
+}
+body{
+    border: 500px lightblue;
+}
+
+
+
+
+
+
+
